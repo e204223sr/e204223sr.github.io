@@ -1,0 +1,19 @@
+h1{
+    color: #5368ff;
+    text-align: center;
+    background-color: #92fff5;
+}
+h2{
+    color:crimson;
+    text-align: center;
+    background-color:azure;
+}
+h4{
+    color:darkslateblue;
+}
+p{
+    color:darkolivegreen;
+}
+body{
+    background-image: url(../images/back04.jpg);
+}
