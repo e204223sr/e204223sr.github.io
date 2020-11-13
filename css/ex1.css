@@ -1,0 +1,27 @@
+h1{
+    color:orangered;
+    text-align: center;
+    background-color:darkblue
+}
+h2{
+    color:cadetblue;
+    text-align: center;
+    background-color:floralwhite;
+    
+}
+table{
+    background-color:#a0fada;
+    
+}
+h3{
+    
+    color: cadetblue;
+    text-align: center;
+    background-color: floralwhite;
+}
+ol{
+    background-image: url(../images/back06.jpg);
+}
+body{
+    background-image: url(../images/back08.jpg);
+}
