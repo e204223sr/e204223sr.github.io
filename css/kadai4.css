@@ -1,0 +1,20 @@
+h1#sasa{
+    text-align: center;
+    background-color: forestgreen;
+}
+.game{
+    text-align: center;
+    background-color:azure
+}
+.sGT{
+    text-align: center;
+    background-color:crimson
+}
+h1#rink{
+    text-align: center;
+    background-color: darkcyan
+}
+
+body{
+    background-image: url(../images/back10.jpg);
+}
